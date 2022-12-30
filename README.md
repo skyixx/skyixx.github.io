@@ -26,7 +26,7 @@
 
 - 加入游戏
 
-  我们的服务器IP：`mc.colorsky.fun`
+  我们的服务器IP：`play.colorsky.fun`
 
   这对于JAVA版和基岩版是一样的，基岩版的端口为`19132`,这是默认的。
 
