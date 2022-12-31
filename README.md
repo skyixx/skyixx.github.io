@@ -36,7 +36,7 @@
 
   在安装的时候，你可以选择安装`optifine`来体验更强大的`光影`
 
-  我们推荐你使用[`SEUS光影`](https://raw.nuaa.cf/skyixx/skyixx.giyhub.io/master/SEUS-Renewed-v1.0.1.zip),请在装有`optifine`的游戏中打开光影进行导入
+  我们推荐你使用[`SEUS光影`](https://raw.nuaa.cf/skyixx/skyixx.github.io/master/data/SEUS-Renewed-v1.0.1.zip),请在装有`optifine`的游戏中打开光影进行导入
 
 - 基岩版本
 
