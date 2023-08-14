@@ -16,6 +16,12 @@ export default sidebar({
       prefix: "posts/",
       children: "structure",
     },
+        {
+      text: "Study",
+      icon: "book",
+      prefix: "Study/",
+      children: "structure",
+    },
     "intro",
   ],
 });
