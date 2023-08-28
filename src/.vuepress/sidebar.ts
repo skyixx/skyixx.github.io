@@ -16,10 +16,16 @@ export default sidebar({
       prefix: "posts/",
       children: "structure",
     },
-        {
+    {
       text: "Study",
       icon: "book",
       prefix: "Study/",
+      children: "structure",
+    },
+    {
+      text: "数学作业",
+      icon: "book",
+      prefix: "Mathwork/",
       children: "structure",
     },
     "intro",
