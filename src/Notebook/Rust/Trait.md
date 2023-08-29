@@ -1,3 +1,10 @@
+---
+title: Trait
+category:
+  - 笔记
+  - Rust
+---
+
 # 什么是 Trait?
 
 - Trait 告诉编译器: 某种类型具有那些功能
@@ -104,4 +111,4 @@ where T: Trait1 + Traia2,
     ```rust
     fn notify(item: bool) -> impl Trait {}
     ```
-  - 注意,反会类型只能是同一种类型!而不应该是多种实现Trait的类型
+  - 注意,反会类型只能是同一种类型!而不应该是多种实现 Trait 的类型
