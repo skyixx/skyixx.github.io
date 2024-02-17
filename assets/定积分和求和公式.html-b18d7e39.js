@@ -1,0 +1,1 @@
+import{_}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as o,b as t}from"./app-a7e5bcc2.js";const c={},n=t("p",null,"None",-1),s=[n];function r(a,l){return e(),o("div",null,s)}const m=_(c,[["render",r],["__file","定积分和求和公式.html.vue"]]);export{m as default};
